@@ -10,7 +10,7 @@ int main()
     cout<<"Hello World"<<endl;
     cout<<"from earth"<<endl;
     cout<<"from vishnu"<<endl;
-    int a = 10+5;
+    int a = 10+5+10;
     cout<<a<<endl;
     int x = help();
 }
