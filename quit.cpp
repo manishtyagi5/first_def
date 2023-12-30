@@ -1,9 +1,9 @@
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
-int helping()
+int help()
 {
-    return 100;
+    return -1;
 }
 int main()
 {
@@ -12,5 +12,5 @@ int main()
     cout<<"from vishnu"<<endl;
     int a = 10+5;
     cout<<a<<endl;
-    int x = helping();
+    int x = help();
 }
